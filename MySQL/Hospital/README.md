@@ -10,7 +10,3 @@ Steps I followed:
 4. Perform EDA
 5. Visualize it in PowerBI
 
-To understand more about the topic, please refer to 'Introduction to the topic for EDA' document.
-I have also written a article on the entire process of EDA. The link to the article is given below:
-
-https://medium.com/@shrutipatkar76/eda-on-medicare-spending-in-the-united-states-using-sql-and-power-bi-be1c339f6902
